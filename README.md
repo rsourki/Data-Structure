@@ -1,3 +1,3 @@
 # data_structure
 
-Tutorials for data structure coded in python and C++.
+Tutorials and coding examples for different data structure problems coded in python and C++.
